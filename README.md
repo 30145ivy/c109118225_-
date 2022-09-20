@@ -19,7 +19,8 @@ HI!!
 >2nd
 >>2.1
 
->>2.2
+>>2.2![NKUST](https://user-images.githubusercontent.com/113968421/191201429-fbb1cac6-6e77-4ce5-85fa-d5fcec4e8fe1.png)
+
 
 >>2.3
 
@@ -45,8 +46,12 @@ HI!!
 
 ---
 
-![NKUST](NKUST.png "NKUST.png")
+![NKUST](https://user-images.githubusercontent.com/113968421/191201532-63eaad0d-dc6e-4bf8-8277-0e35c0b30795.png)
 
--[ ] todo list
--[ ] 2nd
--[x] done
+- [ ] todo list
+- [ ] 2nd
+- [x] done
+
+```python
+s = "this is a example"
+print(s)
