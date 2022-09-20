@@ -45,7 +45,7 @@ HI!!
 
 ---
 
-![NKUST](nkust.png "NKUST")
+![NKUST](NKUST.png "NKUST.png")
 
 -[ ] todo list
 -[ ] 2nd
