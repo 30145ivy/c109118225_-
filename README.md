@@ -40,3 +40,13 @@ HI!!
 3. zzz
 
 [NKUST](http://www.nkust.edu.tw)
+
+🐱 🐶 :octocat: 
+
+---
+
+![NKUST](nkust.png "NKUST")
+
+-[ ] todo list
+-[ ] 2nd
+-[x] done
