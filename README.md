@@ -55,3 +55,18 @@ HI!!
 ```python
 s = "this is a example"
 print(s)
+```
+
+---
+
+javascript code
+```
+javascript
+var s = "JavaScript syntax highlighting"
+alert(s);
+```
+
+| Number | Name | Class |
+| :------ | :------: | --------: |
+| **01** | Ray | 1A |
+| **02** | Louie | 1A |
